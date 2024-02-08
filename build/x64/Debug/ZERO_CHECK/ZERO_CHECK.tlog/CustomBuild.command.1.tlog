@@ -1,0 +1,10 @@
+^D:\SOEM-CMAKE-EX\BUILD\CMAKEFILES\71F8FA72F59754D4C29529541A8B49EC\GENERATE.STAMP.RULE
+setlocal
+D:\Cmake\bin\cmake.exe -SD:/soem-cmake-ex -BD:/soem-cmake-ex/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/soem-cmake-ex/build/SOEM.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

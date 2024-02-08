@@ -1,0 +1,13 @@
+D:\soem-cmake-ex\soem\ethercatbase.c;D:\soem-cmake-ex\build\test.dir\Debug\ethercatbase.obj
+D:\soem-cmake-ex\soem\ethercatcoe.c;D:\soem-cmake-ex\build\test.dir\Debug\ethercatcoe.obj
+D:\soem-cmake-ex\soem\ethercatconfig.c;D:\soem-cmake-ex\build\test.dir\Debug\ethercatconfig.obj
+D:\soem-cmake-ex\soem\ethercatdc.c;D:\soem-cmake-ex\build\test.dir\Debug\ethercatdc.obj
+D:\soem-cmake-ex\soem\ethercateoe.c;D:\soem-cmake-ex\build\test.dir\Debug\ethercateoe.obj
+D:\soem-cmake-ex\soem\ethercatfoe.c;D:\soem-cmake-ex\build\test.dir\Debug\ethercatfoe.obj
+D:\soem-cmake-ex\soem\ethercatmain.c;D:\soem-cmake-ex\build\test.dir\Debug\ethercatmain.obj
+D:\soem-cmake-ex\soem\ethercatprint.c;D:\soem-cmake-ex\build\test.dir\Debug\ethercatprint.obj
+D:\soem-cmake-ex\soem\ethercatsoe.c;D:\soem-cmake-ex\build\test.dir\Debug\ethercatsoe.obj
+D:\soem-cmake-ex\osal\win32\osal.c;D:\soem-cmake-ex\build\test.dir\Debug\osal.obj
+D:\soem-cmake-ex\oshw\win32\nicdrv.c;D:\soem-cmake-ex\build\test.dir\Debug\nicdrv.obj
+D:\soem-cmake-ex\oshw\win32\oshw.c;D:\soem-cmake-ex\build\test.dir\Debug\oshw.obj
+D:\soem-cmake-ex\main.c;D:\soem-cmake-ex\build\test.dir\Debug\main.obj
