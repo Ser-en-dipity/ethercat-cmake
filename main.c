@@ -15,7 +15,6 @@
 
 #include "osal.h"
 #include "ethercat.h"
-#include "simple_test.h"
 
 #define EC_TIMEOUTMON 500
 
@@ -354,7 +353,7 @@ int main(int argc, char *argv[])
       osal_thread_create(&thread1, 128000, &ecatcheck, NULL);
       strcpy(ifbuf, argv[1]);
       /* start cyclic part */
-    //   simpletest(ifbuf);
+      simpletest(ifbuf);
    }
    else
    {

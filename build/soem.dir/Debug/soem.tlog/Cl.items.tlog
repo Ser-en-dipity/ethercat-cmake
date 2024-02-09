@@ -1,0 +1,12 @@
+D:\flutter-project\ethercat-cmake\soem\ethercatbase.c;D:\flutter-project\ethercat-cmake\build\soem.dir\Debug\ethercatbase.obj
+D:\flutter-project\ethercat-cmake\soem\ethercatcoe.c;D:\flutter-project\ethercat-cmake\build\soem.dir\Debug\ethercatcoe.obj
+D:\flutter-project\ethercat-cmake\soem\ethercatconfig.c;D:\flutter-project\ethercat-cmake\build\soem.dir\Debug\ethercatconfig.obj
+D:\flutter-project\ethercat-cmake\soem\ethercatdc.c;D:\flutter-project\ethercat-cmake\build\soem.dir\Debug\ethercatdc.obj
+D:\flutter-project\ethercat-cmake\soem\ethercateoe.c;D:\flutter-project\ethercat-cmake\build\soem.dir\Debug\ethercateoe.obj
+D:\flutter-project\ethercat-cmake\soem\ethercatfoe.c;D:\flutter-project\ethercat-cmake\build\soem.dir\Debug\ethercatfoe.obj
+D:\flutter-project\ethercat-cmake\soem\ethercatmain.c;D:\flutter-project\ethercat-cmake\build\soem.dir\Debug\ethercatmain.obj
+D:\flutter-project\ethercat-cmake\soem\ethercatprint.c;D:\flutter-project\ethercat-cmake\build\soem.dir\Debug\ethercatprint.obj
+D:\flutter-project\ethercat-cmake\soem\ethercatsoe.c;D:\flutter-project\ethercat-cmake\build\soem.dir\Debug\ethercatsoe.obj
+D:\flutter-project\ethercat-cmake\osal\win32\osal.c;D:\flutter-project\ethercat-cmake\build\soem.dir\Debug\osal.obj
+D:\flutter-project\ethercat-cmake\oshw\win32\nicdrv.c;D:\flutter-project\ethercat-cmake\build\soem.dir\Debug\nicdrv.obj
+D:\flutter-project\ethercat-cmake\oshw\win32\oshw.c;D:\flutter-project\ethercat-cmake\build\soem.dir\Debug\oshw.obj

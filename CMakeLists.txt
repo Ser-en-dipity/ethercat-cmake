@@ -23,11 +23,29 @@ set(SOURCE_CPP_FILES
   ${SOEM_SOURCES}
   ${OSAL_SOURCES}
   ${OSHW_SOURCES}
-  main.c
 )
 link_directories(${CMAKE_CURRENT_LIST_DIR}/oshw/win32/wpcap/Lib/x64)
 set(OS_LIBS wpcap.lib Packet.lib Ws2_32.lib Winmm.lib)
 
-add_executable(test ${SOURCE_CPP_FILES})
+add_library(soem SHARED
+    ${SOURCE_CPP_FILES})
 
-target_link_libraries(test ${OS_LIBS})
+target_link_libraries(soem ${OS_LIBS})
+
+target_include_directories(soem PUBLIC
+    $<BUILD_INTERFACE:${CMAKE_CURRENT_LIST_DIR}/soem>)
+
+target_include_directories(soem PUBLIC
+    $<BUILD_INTERFACE:${CMAKE_CURRENT_LIST_DIR}/osal>)
+
+target_include_directories(soem PUBLIC
+    $<BUILD_INTERFACE:${CMAKE_CURRENT_LIST_DIR}/osal/win32>)
+
+target_include_directories(soem PUBLIC
+    $<BUILD_INTERFACE:${CMAKE_CURRENT_LIST_DIR}/oshw>)
+
+target_include_directories(soem PUBLIC
+    $<BUILD_INTERFACE:${CMAKE_CURRENT_LIST_DIR}/oshw/win32>)
+
+target_include_directories(soem PUBLIC
+    $<BUILD_INTERFACE:${CMAKE_CURRENT_LIST_DIR}/oshw/win32/wpcap/Include>)

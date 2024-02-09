@@ -2,13 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\soem-cmake-ex\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>D:\flutter-project\ethercat-cmake\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>D:\soem-cmake-ex\build\Debug\test.exe</FullPath>
+      <FullPath>D:\flutter-project\ethercat-cmake\build\Debug\soem.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>D:\soem-cmake-ex\build\x64\Debug\ALL_BUILD</FullPath>
+      <FullPath>D:\flutter-project\ethercat-cmake\build\x64\Debug\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
