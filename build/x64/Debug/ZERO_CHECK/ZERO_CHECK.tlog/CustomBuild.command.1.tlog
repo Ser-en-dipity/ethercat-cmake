@@ -1,6 +1,6 @@
-^D:\FLUTTER-PROJECT\ETHERCAT-CMAKE\BUILD\CMAKEFILES\E1B7C985A41A1525D4870AE36DE00BA9\GENERATE.STAMP.RULE
+^D:\ETHERNET-CMAKE-EXE\BUILD\CMAKEFILES\2B3EE1735B753188B278B307242E0268\GENERATE.STAMP.RULE
 setlocal
-D:\CMake\bin\cmake.exe -SD:/flutter-project/ethercat-cmake -BD:/flutter-project/ethercat-cmake/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/flutter-project/ethercat-cmake/build/SOEM.sln
+D:\CMake\bin\cmake.exe -SD:/ethernet-cmake-exe -BD:/ethernet-cmake-exe/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/ethernet-cmake-exe/build/SOEM.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

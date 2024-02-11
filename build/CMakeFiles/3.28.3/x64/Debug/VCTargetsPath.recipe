@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\flutter-project\ethercat-cmake\build\CMakeFiles\3.28.3\x64\Debug\VCTargetsPath</FullPath>
+      <FullPath>D:\ethernet-cmake-exe\build\CMakeFiles\3.28.3\x64\Debug\VCTargetsPath</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

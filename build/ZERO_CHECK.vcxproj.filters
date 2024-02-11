@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="D:\flutter-project\ethercat-cmake\build\CMakeFiles\e1b7c985a41a1525d4870ae36de00ba9\generate.stamp.rule">
+    <CustomBuild Include="D:\ethernet-cmake-exe\build\CMakeFiles\2b3ee1735b753188b278b307242e0268\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{4841972D-3045-30D0-86A4-16AAA63750D5}</UniqueIdentifier>
+      <UniqueIdentifier>{13CB0172-FFFD-365A-AFB8-3CB9E9391568}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
